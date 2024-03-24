@@ -26,7 +26,7 @@ We incorporated the bellow features into our TO-DO application, we aim to provid
 
 ![](./public/image.png)
 
- View live preview [here](https://abusaid.netlify.app/).
+ View live preview [here](https://to-do-fawn-xi.vercel.app/).
 
 
 ## Contact
